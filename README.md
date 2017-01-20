@@ -1,0 +1,2 @@
+# Diarization
+Spkr diarization -> Prototype
